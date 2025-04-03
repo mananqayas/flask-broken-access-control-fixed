@@ -1,0 +1,41 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+*.env
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Cache and compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# MacOS files
+.DS_Store
+
+# Pip dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
